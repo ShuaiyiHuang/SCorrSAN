@@ -1,4 +1,4 @@
-## Learning Semantic Correspondence with Sparse Annotations  (To be appeared in ECCV'22)
+## Learning Semantic Correspondence with Sparse Annotations  (To be appeared at ECCV'22)
 For more information, check out the paper on [[arXiv](https://arxiv.org/abs/todo)] (TODO).
 
 Pretrained models are to be uploaded soon.
@@ -51,6 +51,14 @@ PF-PASCAL: (PCK 81.5%, 93.3%, 96.6%)
 
 # Acknowledgement <a name="Acknowledgement"></a>
 
-We borrow code from public projects (huge thanks to all the projects). We mainly borrow code from  [CATs](https://github.com/SunghwanHong/Cost-Aggregation-transformers), [DHPF](https://github.com/juhongm999/dhpf), and [GLU-Net](https://github.com/PruneTruong/GLU-Net). 
+This repository builds on other public projects, mainly [CATs](https://github.com/SunghwanHong/Cost-Aggregation-transformers), [DHPF](https://github.com/juhongm999/dhpf), and [GLU-Net](https://github.com/PruneTruong/GLU-Net). 
 ### BibTeX
-TODO
+If you find this research useful, please consider citing:
+````BibTeX
+@inproceedings{huang2022learning,
+	title={Learning Semantic Correspondence with Sparse Annotations},
+	author={Huang, Shuaiyi and Yang, Luyu and He, Bo and Zhang, Songyang and He, Xuming and Shrivastava, Abhinav},
+	booktitle={Proceedings of the European Conference on Computer Vision(ECCV)},
+	year={2022}
+}
+````
