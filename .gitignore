@@ -1,0 +1,7 @@
+logs/
+snapshots/
+*.txt
+*.png
+*.jpg
+*.pyc
+*.log
