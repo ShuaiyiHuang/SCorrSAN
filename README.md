@@ -38,6 +38,17 @@ Results on PF-PASCAL: (PCK 81.5%, 93.3%, 96.6%)
 Results on PF-WILLOW, (PCK 54.1%, 80.0%, 89.8%)
 
       python test.py --pretrained "/path_to_pretrained_model/pfpascal" --benchmark pfpascal
+
+# Training
+
+SPair-71k: (PCK 55.3%)
+
+      sh ./scripts/train_spair.sh
+ 
+PF-PASCAL: (PCK 81.5%, 93.3%, 96.6%)
+
+      sh ./scripts/train_pfpascal.sh
+
 # Acknowledgement <a name="Acknowledgement"></a>
 
 We borrow code from public projects (huge thanks to all the projects). We mainly borrow code from  [CATs](https://github.com/SunghwanHong/Cost-Aggregation-transformers), [DHPF](https://github.com/juhongm999/dhpf), and [GLU-Net](https://github.com/PruneTruong/GLU-Net). 
