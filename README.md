@@ -1,5 +1,5 @@
 ## Learning Semantic Correspondence with Sparse Annotations  (To be appeared at ECCV'22)
-For more information, check out the paper on [[arXiv](https://arxiv.org/abs/todo)] (TODO).
+For more information, check out our project [[website](https://shuaiyihuang.github.io/publications/SCorrSAN/)] and paper on [[arXiv](https://arxiv.org/pdf/2208.06974.pdf)].
 
 Pretrained models are to be uploaded soon.
 
